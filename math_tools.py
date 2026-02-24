@@ -21,3 +21,10 @@ def find_min(numbers):
         if n < min_val:
             min_val = n
     return min_val
+
+def remove_duplicates(items):
+    unique_list = []
+    for item in items:
+        if item not in unique_list:
+            unique_list.append(item)
+    return unique_list
