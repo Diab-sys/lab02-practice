@@ -1,2 +1,1 @@
-Why don't scientists trust atoms?
-Because they make up literally everything.
+print("Why did the programmer quit? Because he didn't get arrays."))
