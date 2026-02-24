@@ -1,2 +1,3 @@
 Diab Shahid
 Favorite programming language: Python
+favorite color: Cyan
